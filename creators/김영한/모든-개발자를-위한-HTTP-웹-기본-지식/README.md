@@ -1,3 +1,11 @@
+---
+creator: '김영한'
+categories: ['backend']
+platform: ['inflearn']
+language: 'kr'
+summary: '한줄 설명입니다.'
+---
+
 # Class 2의 강의 정보
 
 ### Class 2의 강의 정보
@@ -19,6 +27,5 @@
     CSS의 기초 구문을 모두 익히게 됩니다.
     레이아웃을 만들기 위한 CSS를 배우고, 반응형 웹을 구현할 수 있게 됩니다.
     모든 예제 코드는 깃허브를 통해 제공됩니다.
-
 
 강의 링크: https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-html-css-%EA%B8%B0%EC%B4%88
