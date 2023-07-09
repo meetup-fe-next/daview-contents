@@ -3,9 +3,9 @@ creator: "김영한"
 category: "backend"
 platforms: ["inflearn"]
 hashtags: ["백엔드", "스프링"]
-languages: ["kr"],
-summary: '한줄평 한줄평 한줄평',
-link: 'https://github.com/meetup-fe-next/daview-contents',
+languages: ["kr"]
+summary: '한줄평 한줄평 한줄평'
+link: 'https://github.com/meetup-fe-next/daview-contents'
 ---
 
 # Class 2의 강의 정보

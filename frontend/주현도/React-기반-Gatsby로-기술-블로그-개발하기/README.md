@@ -3,9 +3,9 @@ creator: "주현도"
 category: "frontend"
 platforms: ["인프런", "구름 EDU"]
 hashtags: ["프론트엔드", "리액트"]
-languages: ["kr"],
-summary: '한줄평 한줄평 한줄평',
-link: 'https://github.com/meetup-fe-next/daview-contents',
+languages: ["kr"]
+summary: '한줄평 한줄평 한줄평'
+link: 'https://github.com/meetup-fe-next/daview-contents'
 ---
 
 # Class 2의 강의 정보

@@ -3,9 +3,9 @@ creator: "코딩앙마"
 category: "frontend"
 platforms: ["유튜브"]
 hashtags: ["프론트엔드", "리액트", "Next.js"]
-languages: ["kr"],
-summary: '한줄평 한줄평 한줄평',
-link: 'https://github.com/meetup-fe-next/daview-contents',
+languages: ["kr"]
+summary: '한줄평 한줄평 한줄평'
+link: 'https://github.com/meetup-fe-next/daview-contents'
 ---
 
 # Class 2의 강의 정보
