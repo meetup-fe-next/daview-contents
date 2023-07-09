@@ -1,9 +1,11 @@
 ---
-creator: '김영한'
-categories: ['backend']
-platform: ['inflearn']
-language: 'kr'
-summary: '한줄 설명입니다.'
+creator: "김영한"
+category: "backend"
+platforms: ["inflearn"]
+hashtags: ["백엔드", "HTTP"]
+languages: ["kr"],
+summary: '한줄평 한줄평 한줄평',
+link: 'https://github.com/meetup-fe-next/daview-contents',
 ---
 
 # Class 2의 강의 정보

@@ -1,10 +1,11 @@
 ---
-creator: '드림코딩 엘리'
-categories: ['frontend']
-platform: ['드림코딩']
-language: 'kr'
-
-summary: '한줄 설명입니다. 33'
+creator: "드림코딩 엘리"
+category: "frontend"
+platforms: ["드림코딩"]
+hashtags: ["프론트엔드", "리액트", "Next.js"]
+languages: ["kr"],
+summary: '한줄평 한줄평 한줄평',
+link: 'https://github.com/meetup-fe-next/daview-contents',
 ---
 
 # Class 2의 강의 정보

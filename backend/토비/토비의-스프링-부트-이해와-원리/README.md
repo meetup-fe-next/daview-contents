@@ -1,10 +1,11 @@
 ---
-creator: '토비'
-categories: ['backend']
-platform: ['인프런']
-language: 'kr'
-
-summary: '한줄 설명입니다. 44444'
+creator: "토비"
+category: "backend"
+platforms: ["inflearn"]
+hashtags: ["백엔드", "스프링"]
+languages: ["kr"],
+summary: '한줄평 한줄평 한줄평',
+link: 'https://github.com/meetup-fe-next/daview-contents',
 ---
 
 # Class 2의 강의 정보
