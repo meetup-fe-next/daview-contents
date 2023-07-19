@@ -1,6 +1,6 @@
 ---
 platforms: ["구름", "인프런"]
-language: "kr"
+languages: ["kr", "en"]
 hashtags: ["react", "개발"]
 link: "https://github.com/meetup-fe-next/daview-contents"
 summary: "한줄 설명입니다. 44444"
