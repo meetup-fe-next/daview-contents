@@ -1,6 +1,8 @@
 ---
 platforms: ["inflearn"]
 language: "kr"
+hashtags: ["react", "개발"]
+link: "https://github.com/meetup-fe-next/daview-contents"
 summary: "한줄 설명입니다.222"
 ---
 
