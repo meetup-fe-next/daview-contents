@@ -1,10 +1,7 @@
 ---
-creator: '토비'
-categories: ['backend']
-platform: ['인프런']
-language: 'kr'
-
-summary: '한줄 설명입니다. 44444'
+platforms: ["인프런"]
+language: "kr"
+summary: "한줄 설명입니다. 44444"
 ---
 
 # Class 2의 강의 정보

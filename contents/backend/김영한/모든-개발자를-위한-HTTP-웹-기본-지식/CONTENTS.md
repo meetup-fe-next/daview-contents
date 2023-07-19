@@ -1,9 +1,7 @@
 ---
-creator: '김영한'
-categories: ['backend']
-platform: ['inflearn']
-language: 'kr'
-summary: '한줄 설명입니다.'
+platforms: ["inflearn"]
+language: "kr"
+summary: "한줄 설명입니다."
 ---
 
 # Class 2의 강의 정보

@@ -1,10 +1,7 @@
 ---
-creator: '코딩 앙마'
-categories: ['frontend']
-platform: ['유튜브']
-language: 'kr'
-
-summary: '한줄 설명입니다. 44444'
+platforms: ["유튜브"]
+language: "kr"
+summary: "한줄 설명입니다. 44444"
 ---
 
 # Class 2의 강의 정보

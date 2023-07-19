@@ -1,10 +1,7 @@
 ---
-creator: '드림코딩 엘리'
-categories: ['frontend']
-platform: ['드림코딩']
-language: 'kr'
-
-summary: '한줄 설명입니다. 33'
+platforms: ["드림코딩"]
+language: "kr"
+summary: "한줄 설명입니다. 33"
 ---
 
 # Class 2의 강의 정보
