@@ -1,5 +1,5 @@
 ---
-platforms: ["유튜브"]
+platforms: ["유튜브", "테스트 플랫폼"]
 languages: ["kr"]
 hashtags: ["react", "jest", "react testing"]
 link: "https://github.com/meetup-fe-next/daview-contents"
