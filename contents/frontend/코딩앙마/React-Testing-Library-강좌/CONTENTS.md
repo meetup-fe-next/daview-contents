@@ -1,7 +1,7 @@
 ---
 platforms: ["유튜브"]
 languages: ["kr"]
-hashtags: ["react", "개발"]
+hashtags: ["react", "jest", "react testing"]
 link: "https://github.com/meetup-fe-next/daview-contents"
 summary: "한줄 설명입니다. 44444"
 ---
