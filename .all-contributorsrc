@@ -15,6 +15,33 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "yooveloper",
+      "name": "Wonyoung Yoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103870198?v=4",
+      "profile": "https://github.com/yooveloper",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "plagdoctor",
+      "name": "Jinyoung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42507121?v=4",
+      "profile": "https://github.com/plagdoctor",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jun094",
+      "name": "HolyMoly Jun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42564107?v=4",
+      "profile": "https://github.com/jun094",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
