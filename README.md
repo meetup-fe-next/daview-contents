@@ -16,6 +16,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yooveloper"><img src="https://avatars.githubusercontent.com/u/103870198?v=4?s=100" width="100px;" alt="Wonyoung Yoo"/><br /><sub><b>Wonyoung Yoo</b></sub></a><br /><a href="https://github.com/meetup-fe-next/daview-contents/commits?author=yooveloper" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/plagdoctor"><img src="https://avatars.githubusercontent.com/u/42507121?v=4?s=100" width="100px;" alt="Jinyoung"/><br /><sub><b>Jinyoung</b></sub></a><br /><a href="https://github.com/meetup-fe-next/daview-contents/commits?author=plagdoctor" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jun094"><img src="https://avatars.githubusercontent.com/u/42564107?v=4?s=100" width="100px;" alt="HolyMoly Jun"/><br /><sub><b>HolyMoly Jun</b></sub></a><br /><a href="https://github.com/meetup-fe-next/daview-contents/commits?author=jun094" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/boin-dl"><img src="https://avatars.githubusercontent.com/u/40257168?v=4?s=100" width="100px;" alt="boin-dl"/><br /><sub><b>boin-dl</b></sub></a><br /><a href="#ideas-boin-dl" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
