@@ -1,0 +1,12 @@
+{
+  "name": "daview-contents",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/meetup-fe-next/daview-contents#readme",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
