@@ -10,7 +10,7 @@ const {
  * @description path 하위의 Repository content를 가져오는 API
  * @links https://docs.github.com/en/rest/repos/contents?apiVersion=2022-11-28#get-repository-content
  */
-const getContents = async (path) => {
+const getRepositoryContents = async (path) => {
 	try {
 		const response = await axios.get(`${GITHUB_REPOSITORY_API_URL}/${path}`, {
 			params: { ref: GITHUB_REPOSITORY_BRANCH },
@@ -22,8 +22,6 @@ const getContents = async (path) => {
 	}
 };
 
-const githubSDK = {
-	getContents,
+module.exports = {
+	getRepositoryContents,
 };
-
-module.exports = githubSDK;
