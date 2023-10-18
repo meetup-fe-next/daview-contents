@@ -1,14 +1,17 @@
 {
-  "name": "daview-contents",
-  "version": "0.0.1",
-  "description": "",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "homepage": "https://github.com/meetup-fe-next/daview-contents#readme",
-  "dependencies": {
-    "axios": "^1.5.1",
-    "dotenv": "^16.3.1",
-    "js-yaml": "^4.1.0"
-  }
+	"name": "daview-contents",
+	"version": "0.0.1",
+	"description": "",
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"homepage": "https://github.com/meetup-fe-next/daview-contents#readme",
+	"dependencies": {
+		"axios": "^1.5.1",
+		"dotenv": "^16.3.1",
+		"js-yaml": "^4.1.0"
+	},
+	"scripts": {
+		"sync-data": "node ./scripts/app.js"
+	}
 }

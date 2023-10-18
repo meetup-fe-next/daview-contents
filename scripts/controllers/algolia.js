@@ -13,8 +13,6 @@ const saveConents = async () => {
 	console.log(res2);
 };
 
-saveConents();
-
 module.exports = {
 	saveConents,
 };
