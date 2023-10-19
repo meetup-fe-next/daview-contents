@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const githubSdk = require("../apis/github");
+const githubSdk = require("../libs/githubSdk");
 const {
 	replaceDashWithSpace,
 	splitFrontmatterAndMarkdown,

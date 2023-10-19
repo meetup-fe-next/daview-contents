@@ -12,10 +12,12 @@ const {
  * @links https://docs.github.com/en/rest/repos/contents?apiVersion=2022-11-28#get-repository-content
  */
 const getRepositoryContents = async (path) => {
+	console.log("GET GITHUB CONTENTS...", new Date().getTime());
+
 	try {
 		const response = await axios.get(`${GITHUB_REPOSITORY_API_URL}/${path}`, {
 			headers: {
-				Authorization: GITHUB_TOKEN,
+				Authorization: `token ${GITHUB_TOKEN}`,
 			},
 			params: { ref: GITHUB_REPOSITORY_BRANCH },
 		});
