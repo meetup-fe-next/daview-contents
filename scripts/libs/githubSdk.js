@@ -2,7 +2,7 @@ const axios = require("axios");
 const {
 	GITHUB_REPOSITORY_API_URL,
 	GITHUB_REPOSITORY_BRANCH,
-	GITHUB_TOKEN,
+	GIT_HUB_TOKEN,
 } = require("../constants");
 
 /**
@@ -17,7 +17,7 @@ const getRepositoryContents = async (path) => {
 	try {
 		const response = await axios.get(`${GITHUB_REPOSITORY_API_URL}/${path}`, {
 			headers: {
-				Authorization: `token ${GITHUB_TOKEN}`,
+				Authorization: `token ${GIT_HUB_TOKEN}`,
 			},
 			params: { ref: GITHUB_REPOSITORY_BRANCH },
 		});
