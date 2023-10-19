@@ -9,20 +9,22 @@ const main = async () => {
 		const { items: creatorItems } = creators;
 		const { items: lecutureItems } = lectures;
 
-		const { objectIDs: syncCreators } = await algoliaCtrl.syncContents(
-			"creators",
-			creatorItems
-		);
-		const { objectIDs: syncLectures } = await algoliaCtrl.syncContents(
-			"lectures",
-			lecutureItems
-		);
+		// const { objectIDs: syncCreators } = await algoliaCtrl.syncContents(
+		// 	"creators",
+		// 	creatorItems
+		// );
+		// const { objectIDs: syncLectures } = await algoliaCtrl.syncContents(
+		// 	"lectures",
+		// 	lecutureItems
+		// );
 
-		console.log("====================");
-		console.log("SYNC COMPLETED !!!");
-		console.log("CREATOR COUNT : ", syncCreators.length);
-		console.log("LECTURE COUNT : ", syncLectures.length);
-		console.log("====================");
+		// console.log("====================");
+		// console.log("SYNC COMPLETED !!!");
+		// console.log("CREATOR COUNT : ", syncCreators.length);
+		// console.log("LECTURE COUNT : ", syncLectures.length);
+		// console.log("====================");
+
+		console.log(creatorItems);
 	} catch (e) {
 		console.log(e);
 	}
