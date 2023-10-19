@@ -1,0 +1,62 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "kuongee",
+      "name": "Jeesoo Min",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34534423?v=4",
+      "profile": "https://github.com/kuongee",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "yooveloper",
+      "name": "Wonyoung Yoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103870198?v=4",
+      "profile": "https://github.com/yooveloper",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "plagdoctor",
+      "name": "Jinyoung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42507121?v=4",
+      "profile": "https://github.com/plagdoctor",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jun094",
+      "name": "HolyMoly Jun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42564107?v=4",
+      "profile": "https://github.com/jun094",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "boin-dl",
+      "name": "boin-dl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40257168?v=4",
+      "profile": "https://github.com/boin-dl",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "daview-contents",
+  "projectOwner": "meetup-fe-next"
+}
