@@ -5,7 +5,13 @@ require("dotenv").config();
  */
 
 const CONTENTS_PATH = "contents";
-const CONTENTS_CATEGORIES = ["algorithm", "front-end", "back-end"];
+const CONTENTS_CATEGORIES = [
+	"algorithm",
+	"architecture",
+	// "database",
+	"front-end",
+	"back-end",
+];
 
 /**
  * Github API 관련

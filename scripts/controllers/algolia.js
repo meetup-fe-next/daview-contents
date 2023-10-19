@@ -1,18 +1,13 @@
-const githubCtrl = require("../controllers/github");
-const algoliaSdk = require("../apis/algolia");
+const algoliaSdk = require("../libs/algoliaSdk");
 
-const saveConents = async () => {
-	const { creators, lectures } = await githubCtrl.getContents();
-	const { items: lecutureItems } = lectures;
-	const { items: creatorItems } = creators;
+const syncContents = async (algoliaIndex, contents) => {
+	await algoliaSdk.deleteObjectsFromIndex(algoliaIndex);
 
-	const res1 = await algoliaSdk.saveObjectsToIndex("lectures", lecutureItems);
-	const res2 = await algoliaSdk.saveObjectsToIndex("creators", creatorItems);
+	const res = await algoliaSdk.saveObjectsToIndex(algoliaIndex, contents);
 
-	console.log(res1);
-	console.log(res2);
+	return res;
 };
 
 module.exports = {
-	saveConents,
+	syncContents,
 };

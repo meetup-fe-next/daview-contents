@@ -3,9 +3,6 @@ const {
 	ALGOLIA_WRITE_HOST,
 	ALGOLIA_APP_ID,
 	ALGOLIA_ADMIN_API_KEY,
-	ALGOLIA_READ_HOST,
-	ALGOLIA_API_KEY,
-	REVALIDATE_GITHUB_DATA,
 } = require("../constants");
 
 const ALGOLIA_HEADERS = {
@@ -65,7 +62,23 @@ const setSettingsToIndex = async (indexName, settings) => {
 	return data;
 };
 
+const deleteObjectsFromIndex = async (indexName) => {
+	const { data } = await axios.post(
+		`${ALGOLIA_WRITE_HOST}/1/indexes/${indexName}/clear`,
+		{},
+		{
+			headers: {
+				...ALGOLIA_HEADERS,
+				"X-Algolia-API-Key": ALGOLIA_ADMIN_API_KEY,
+			},
+		}
+	);
+
+	return data;
+};
+
 module.exports = {
 	saveObjectsToIndex,
 	setSettingsToIndex,
+	deleteObjectsFromIndex,
 };
