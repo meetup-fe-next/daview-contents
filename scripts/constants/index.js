@@ -20,7 +20,7 @@ const GITHUB_USER_NAME = "meetup-fe-next";
 const GITHUB_REPOSITORY_NAME = "daview-contents";
 const GITHUB_REPOSITORY_API_URL = `https://api.github.com/repos/${GITHUB_USER_NAME}/${GITHUB_REPOSITORY_NAME}/contents`;
 const GITHUB_REPOSITORY_BRANCH = "main";
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const GIT_HUB_TOKEN = process.env.GIT_HUB_TOKEN;
 
 /**
  * Algolia
@@ -39,7 +39,7 @@ module.exports = {
 	GITHUB_REPOSITORY_NAME,
 	GITHUB_REPOSITORY_API_URL,
 	GITHUB_REPOSITORY_BRANCH,
-	GITHUB_TOKEN,
+	GIT_HUB_TOKEN,
 
 	ALGOLIA_APP_ID,
 	ALGOLIA_API_KEY,
